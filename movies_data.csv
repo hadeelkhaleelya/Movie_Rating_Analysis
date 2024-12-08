@@ -1,0 +1,986 @@
+Title,Rating,Genre,Runtime
+The Matrix,8.7,"Action, Sci-Fi",136 min
+The Lord of the Rings: The Fellowship of the Ring,8.9,"Action, Adventure, Drama",178 min
+Inception,8.8,"Action, Adventure, Sci-Fi",148 min
+The Dark Knight,9.0,"Action, Crime, Drama",152 min
+Star Wars: Episode IV - A New Hope,8.6,"Action, Adventure, Fantasy",121 min
+12 Angry Men,9.0,"Crime, Drama",96 min
+The Godfather,9.2,"Crime, Drama",175 min
+Fight Club,8.8,Drama,139 min
+Forrest Gump,8.8,"Drama, Romance",142 min
+Pulp Fiction,8.9,"Crime, Drama",154 min
+"The Good, the Bad and the Ugly",8.8,"Adventure, Drama, Western",178 min
+Star Wars: Episode V - The Empire Strikes Back,8.7,"Action, Adventure, Fantasy",124 min
+The Lord of the Rings: The Return of the King,9.0,"Action, Adventure, Drama",201 min
+The Godfather Part II,9.0,"Crime, Drama",202 min
+Goodfellas,8.7,"Biography, Crime, Drama",145 min
+The Lord of the Rings: The Two Towers,8.8,"Action, Adventure, Drama",179 min
+The Shawshank Redemption,9.3,Drama,142 min
+Psycho,8.5,"Horror, Mystery, Thriller",109 min
+Saving Private Ryan,8.6,"Drama, War",169 min
+One Flew Over the Cuckoo's Nest,8.7,Drama,133 min
+Full Metal Jacket,8.3,"Drama, War",116 min
+Schindler's List,9.0,"Biography, Drama, History",195 min
+Life Is Beautiful,8.6,"Comedy, Drama, Romance",116 min
+Modern Times,8.5,"Comedy, Drama, Romance",87 min
+Aliens,8.4,"Action, Adventure, Sci-Fi",137 min
+Apocalypse Now,8.4,"Drama, Mystery, War",147 min
+Braveheart,8.3,"Biography, Drama, War",178 min
+North by Northwest,8.3,"Action, Adventure, Mystery",136 min
+Reservoir Dogs,8.3,"Crime, Thriller",99 min
+M,8.3,"Crime, Mystery, Thriller",99 min
+Jurassic Park,8.2,"Action, Adventure, Sci-Fi",127 min
+Raiders of the Lost Ark,8.4,"Action, Adventure",115 min
+For a Few Dollars More,8.2,"Drama, Western",132 min
+Das Boot,8.4,"Drama, War",149 min
+The Shining,8.4,"Drama, Horror",146 min
+Taxi Driver,8.2,"Crime, Drama",114 min
+The Sting,8.3,"Comedy, Crime, Drama",129 min
+Sunset Boulevard,8.4,"Drama, Film-Noir",110 min
+American Beauty,8.3,Drama,122 min
+Chinatown,8.1,"Drama, Mystery, Thriller",130 min
+Cinema Paradiso,8.5,"Drama, Romance",174 min
+2001: A Space Odyssey,8.3,"Adventure, Sci-Fi",149 min
+It's a Wonderful Life,8.6,"Drama, Family, Fantasy",130 min
+My Neighbor Totoro,8.1,"Animation, Comedy, Family",86 min
+American History X,8.5,"Crime, Drama",119 min
+Vertigo,8.3,"Mystery, Romance, Thriller",128 min
+Beauty and the Beast,8.0,"Animation, Family, Fantasy",84 min
+Double Indemnity,8.3,"Crime, Drama, Film-Noir",107 min
+Casablanca,8.5,"Drama, Romance, War",102 min
+Goodfellas,8.7,"Biography, Crime, Drama",145 min
+Full Metal Jacket,8.3,"Drama, War",116 min
+The Lion King,8.5,"Animation, Adventure, Drama",88 min
+Jurassic Park,8.2,"Action, Adventure, Sci-Fi",127 min
+Heat,8.3,"Action, Crime, Drama",170 min
+Citizen Kane,8.3,"Drama, Mystery",119 min
+Raging Bull,8.1,"Biography, Drama, Sport",129 min
+2001: A Space Odyssey,8.3,"Adventure, Sci-Fi",149 min
+Monty Python and the Holy Grail,8.2,"Adventure, Comedy, Fantasy",91 min
+Paths of Glory,8.4,"Drama, War",88 min
+Scarface,8.3,"Crime, Drama",170 min
+For a Few Dollars More,8.2,"Drama, Western",132 min
+Good Will Hunting,8.3,"Drama, Romance",126 min
+Singin' in the Rain,8.3,"Comedy, Musical, Romance",103 min
+Princess Mononoke,8.3,"Animation, Action, Adventure",134 min
+Reservoir Dogs,8.3,"Crime, Thriller",99 min
+The Great Dictator,8.4,"Comedy, Drama, War",125 min
+Chinatown,8.1,"Drama, Mystery, Thriller",130 min
+Alien,8.5,"Horror, Sci-Fi",117 min
+Cinema Paradiso,8.5,"Drama, Romance",174 min
+Citizen Kane,8.3,"Drama, Mystery",119 min
+Scarface,8.3,"Crime, Drama",170 min
+Star Wars: Episode V - The Empire Strikes Back,8.7,"Action, Adventure, Fantasy",124 min
+Taxi Driver,8.2,"Crime, Drama",114 min
+A Clockwork Orange,8.3,"Crime, Sci-Fi",136 min
+Terminator 2: Judgment Day,8.6,"Action, Adventure, Sci-Fi",137 min
+Casablanca,8.5,"Drama, Romance, War",102 min
+"Good to See You Again, Alice Cooper",6.8,"Documentary, Comedy, Horror",98 min
+"The Good, the Bad and the Ugly",8.8,"Adventure, Drama, Western",178 min
+The Lion King,8.5,"Animation, Adventure, Drama",88 min
+Goodfellas,8.7,"Biography, Crime, Drama",145 min
+"Lock, Stock and Two Smoking Barrels",8.1,"Action, Comedy, Crime",107 min
+Singin' in the Rain,8.3,"Comedy, Musical, Romance",103 min
+The Sting,8.3,"Comedy, Crime, Drama",129 min
+Apocalypse Now,8.4,"Drama, Mystery, War",147 min
+For a Few Dollars More,8.2,"Drama, Western",132 min
+The Nesbitts Are Coming,3.4,Comedy,30 min
+The Wizard of Oz,8.1,"Adventure, Family, Fantasy",102 min
+The Full Monty,7.2,"Comedy, Drama",91 min
+M,8.3,"Crime, Mystery, Thriller",99 min
+"Summer Wishes, Winter Dreams",6.4,Drama,93 min
+Full Metal Jacket,8.3,"Drama, War",116 min
+One Flew Over the Cuckoo's Nest,8.7,Drama,133 min
+The Shawshank Redemption,9.3,Drama,142 min
+Aliens,8.4,"Action, Adventure, Sci-Fi",137 min
+Terror on the Beach,5.5,"Action, Drama, Thriller",74 min
+Sorcerer,7.7,"Adventure, Drama, Thriller",121 min
+A Clockwork Orange,8.3,"Crime, Sci-Fi",136 min
+The Shining,8.4,"Drama, Horror",146 min
+The Sting,8.3,"Comedy, Crime, Drama",129 min
+Öszi versenyek,N/A,"Romance, Fantasy",70 min
+Kaala Aadmi,6.3,"Action, Thriller",N/A
+Morte di un operatore,N/A,N/A,N/A
+Forrest Gump,8.8,"Drama, Romance",142 min
+Goodfellas,8.7,"Biography, Crime, Drama",145 min
+Death Race 2000,6.2,"Action, Comedy, Sci-Fi",80 min
+#DUPE#,N/A,N/A,N/A
+Cinema Paradiso,8.5,"Drama, Romance",174 min
+Theo gegen den Rest der Welt,6.8,"Comedy, Crime, Romance",106 min
+Wien 1910,6.4,"Biography, Drama",92 min
+Vertigo,8.3,"Mystery, Romance, Thriller",128 min
+Pilot,N/A,"Crime, Drama",73 min
+Il campione,N/A,Short,N/A
+Die Frau meiner Träume,6.5,"Comedy, Musical, Romance",93 min
+Taxi Driver,8.2,"Crime, Drama",114 min
+The Bridge on the River Kwai,8.1,"Adventure, Drama, War",161 min
+Magicians,7.1,"Comedy, Musical, Romance",147 min
+Nenavist,4.8,Adventure,72 min
+Full Metal Jacket,8.3,"Drama, War",116 min
+Alex in Wonderland,5.4,"Comedy, Drama",110 min
+The Hanging Woman,5.6,Horror,98 min
+HealtH,5.6,Comedy,105 min
+Sorcerer,7.7,"Adventure, Drama, Thriller",121 min
+When Nature Calls,4.6,Comedy,85 min
+Shirak,5.8,"Drama, Family",110 min
+Casablanca,8.5,"Drama, Romance, War",102 min
+The Melancholy Hussar,N/A,Drama,N/A
+Anna and the King of Siam,7.0,"Biography, Drama, Romance",128 min
+L'addition,5.7,"Drama, Thriller",85 min
+Full Metal Jacket,8.3,"Drama, War",116 min
+Dr. Kovács István,6.7,Drama,94 min
+Paths of Glory,8.4,"Drama, War",88 min
+Zima w dolinie Muminkow,N/A,Animation,60 min
+Stavisky,6.5,"Biography, Crime, Drama",120 min
+Unpublished Story,6.5,"Drama, War",92 min
+White Nights,7.8,"Drama, Romance",97 min
+Buford and the Galloping Ghost,7.2,"Animation, Comedy, Family",N/A
+Star Trek: The Animated Series,7.2,"Animation, Action, Adventure",30 min
+Terror on the Beach,5.5,"Action, Drama, Thriller",74 min
+The Serpent's Way,6.2,Drama,111 min
+Condenados a muerte,N/A,"Adventure, Drama, Western",N/A
+Penetration,5.9,"Adult, Documentary",90 min
+Parthiban Kanavu,6.4,N/A,219 min
+Amanie,N/A,Short,32 min
+Sorcerer,7.7,"Adventure, Drama, Thriller",121 min
+Es fing so harmlos an,6.9,N/A,90 min
+Crocodile Dundee II,5.7,"Action, Adventure, Comedy",108 min
+Das Boot,8.4,"Drama, War",149 min
+The Revenge of Frankenstein,6.7,"Horror, Sci-Fi",90 min
+Sueños de historia,N/A,N/A,N/A
+The Wetback Hound,7.1,"Short, Family",18 min
+Anna Lucasta,6.8,Drama,97 min
+Cortina di cristallo,N/A,N/A,N/A
+Girl in the Woods,N/A,Drama,71 min
+Let's Rock,4.9,"Drama, Music",79 min
+Merry Andrew,6.6,"Comedy, Musical, Romance",103 min
+Doroga k zvezdam,7.1,"Biography, Sci-Fi",52 min
+To Itch His Own,7.1,"Animation, Family, Short",6 min
+"Tuppe tuppe, Marescià!",5.7,Comedy,95 min
+The Accomplices,5.4,"Thriller, Crime",93 min
+Date at Midnight,N/A,Crime,57 min
+Five Bold Women,6.6,Western,82 min
+"Mikosch, der Stolz der Kompanie",6.5,Comedy,95 min
+The Price of Silence,6.3,"Crime, Drama",73 min
+Sleeping Beauty,7.2,"Animation, Adventure, Family",75 min
+Vacanze d'inverno,6.2,Comedy,100 min
+Peter Loves Mary,6.0,Comedy,30 min
+Bluebeard's Ten Honeymoons,6.1,"Crime, Mystery, Thriller",92 min
+Domaren,6.0,Drama,112 min
+Heldinnen,6.3,"Comedy, Musical",95 min
+Man on a String,6.2,"Action, Crime, Drama",92 min
+La rosa roja,N/A,N/A,80 min
+Tao hua lei,N/A,Drama,115 min
+Five Star Jubilee,N/A,N/A,30 min
+Anima nera,6.2,Drama,97 min
+Cradle of Genius,6.2,"Documentary, Short",25 min
+The Exiles,6.7,Drama,72 min
+Immer Ärger mit dem Bett,6.9,"Comedy, Crime",88 min
+Magic Spectacles,2.6,Comedy,74 min
+Pirates of Tortuga,5.3,Adventure,97 min
+Ein Sommertag macht keine Liebe,N/A,N/A,78 min
+The Young Doctors,6.8,Drama,100 min
+L'assedio di Siracusa,5.3,"Drama, History, Romance",97 min
+Et moi je suis belle,N/A,Documentary,90 min
+In the French Style,6.6,"Drama, Romance",105 min
+The Man Who Finally Died,6.1,"Crime, Drama, Mystery",98 min
+Prekobrojna,7.1,Drama,94 min
+The Slick Chick,6.0,"Animation, Family, Short",7 min
+#DUPE#,N/A,N/A,N/A
+Ben Jerrod,7.6,Drama,30 min
+Cinderella,5.4,N/A,N/A
+Follow the Boys,5.3,"Comedy, Musical, Romance",95 min
+13 Assassins,7.4,"Adventure, Action",125 min
+Noches de Casablanca,5.4,Drama,101 min
+"Sing, aber spiel nicht mit mir",4.8,"Comedy, Music",91 min
+Os Verdes Anos,7.4,"Drama, Romance",91 min
+"Alf, Bill & Fred",7.3,"Animation, Comedy, Short",7 min
+Double Edged Crime,6.6,"Crime, Drama, Thriller",90 min
+For Those Who Think Young,5.2,Comedy,96 min
+Eskimo Artist: Kenojuak,6.5,"Documentary, Short",20 min
+An Outlaw,6.7,"Crime, Drama, Thriller",98 min
+Un rincón para querernos,6.0,"Comedy, Drama, Romance",83 min
+Tintansón CruZoe,6.5,"Comedy, Fantasy",90 min
+The John Forsythe Show,7.2,Comedy,30 min
+"Yu mian yan luo, xia ji",N/A,N/A,N/A
+I due toreri,5.6,Comedy,110 min
+Highway Runnery,5.6,"Family, Animation, Short",7 min
+Le majordome,6.0,Comedy,93 min
+The Priest and the Girl,7.3,Drama,90 min
+7 pistole per i MacGregor,5.4,"Drama, Western",107 min
+The Uncle,7.0,Drama,87 min
+The Milton Berle Show,8.3,"Music, Comedy",60 min
+L'authentique procès de Carl-Emmanuel Jung,7.1,Drama,62 min
+The Daydreamer,6.1,"Animation, Adventure, Drama",101 min
+The Fighting Prince of Donegal,6.0,"Adventure, Biography, Family",110 min
+Juego peligroso,6.0,"Comedy, Crime",94 min
+Six Kids and Their Uncle,6.4,"Comedy, Family",114 min
+Preis der Freiheit,7.9,Drama,83 min
+The Silencers,5.9,"Action, Adventure, Comedy",102 min
+Top Crack,4.3,Comedy,100 min
+The Herculoids,7.4,"Animation, Short, Adventure",10 min
+Cayuga Run - Hudson River Diary: Book I,N/A,Short,18 min
+Drra på - Kul grej på väg till Götet,4.2,"Comedy, Music",100 min
+Il grande colpo dei 7 uomini d'oro,5.9,"Adventure, Comedy, Crime",97 min
+Keresztelö,6.1,Drama,91 min
+"Monkeys, Go Home!",5.7,"Comedy, Family",101 min
+Powrót na ziemie,5.0,Drama,80 min
+#DUPE#,N/A,N/A,N/A
+Way Out,6.6,Drama,102 min
+"30 Is a Dangerous Age, Cynthia",5.2,"Comedy, Romance",85 min
+Catherine,5.0,Action,110 min
+#DUPE#,N/A,N/A,N/A
+Heimlichkeiten,7.8,Crime,92 min
+Kiedy milosc byla zbrodnia,6.4,Drama,92 min
+Modiga mindre män,7.0,Family,85 min
+I protagonisti,6.5,"Action, Crime, Drama",105 min
+She-Devils on Wheels,4.5,"Action, Crime, Thriller",82 min
+Uden en trævl,4.9,"Comedy, Drama",89 min
+The Bold Ones: The Protectors,7.0,Drama,60 min
+The Alley Cats,4.9,Drama,83 min
+Carry on Camping,6.6,Comedy,88 min
+"Drive Hard, Drive Fast",7.9,"Adventure, Drama",120 min
+"Goodbye, Columbus",6.4,"Comedy, Drama, Romance",102 min
+Kaya,7.2,"Crime, Drama, War",87 min
+Midnight Cowboy,7.8,Drama,113 min
+Uno straniero a Paso Bravo,5.8,Western,92 min
+A Session with the Committee,6.7,"Comedy, Documentary",90 min
+The Invincible Fist,6.8,"Action, Drama",99 min
+¿Por qué pecamos a los cuarenta?,4.7,Comedy,107 min
+Adam's Woman,6.3,Drama,116 min
+Cannon for Cordoba,5.7,"Action, Romance, Western",104 min
+#DUPE#,N/A,N/A,N/A
+The Hard Ride,5.3,"Action, Drama",93 min
+Laila (17 år) badar,8.4,Short,15 min
+Moonfire,4.6,"Action, Adventure, Drama",107 min
+Pravda,5.5,Documentary,58 min
+Skulle det dukke opp flere lik er det bare å ringe.....,7.1,"Comedy, Crime, Mystery",98 min
+#DUPE#,N/A,N/A,N/A
+Funny Face,6.6,Comedy,30 min
+The Manipulator,3.9,Thriller,85 min
+Code Name: Raw-Hide,3.8,"Adult, Adventure, Comedy",N/A
+Husbands-Report,4.3,"Comedy, Drama",78 min
+Hail,6.9,Comedy,85 min
+Ksiaze sezonu,N/A,"Drama, Romance",53 min
+The Boldest Job in the West,5.7,Western,93 min
+Portugal de Mil Cores,N/A,"Animation, Short",13 min
+Shin Abashiri Bangaichi: Fubuki no Dai-Dassou,N/A,Crime,110 min
+Trotta,7.3,Drama,95 min
+Zycie rodzinne,6.8,Drama,88 min
+1776,7.6,"Drama, Family, History",141 min
+Bluebeard,5.6,"Crime, Drama, Thriller",125 min
+You Are a Traitor and I'll Kill You!,3.3,Western,79 min
+Familien med de 100 børn,4.3,Family,80 min
+Hibotan bakuto: Jingi tooshimasu,6.8,Crime,96 min
+Kun taivas putoaa...,6.7,Drama,100 min
+Molly and Lawless John,5.3,"Drama, Western",98 min
+The Mighty Anselmo and His Squire,6.2,Comedy,98 min
+Los siete locos,6.9,Drama,118 min
+Le trèfle à cinq feuilles,5.4,Comedy,90 min
+Der Bastian,7.6,Drama,25 min
+Battle of the Amazons,4.3,"Action, Fantasy",100 min
+Cahill U.S. Marshal,6.4,"Drama, Western",103 min
+Divorce His - Divorce Hers,5.1,"Drama, Romance",148 min
+The Great American Cowboy,7.0,"Documentary, Sport",89 min
+The Killing Kind,6.1,"Crime, Drama, Horror",95 min
+Una mujer prohibida,4.4,"Crime, Drama",87 min
+Man - Woman Wanted,7.5,Comedy,82 min
+Showdown,5.9,"Drama, Western",99 min
+#DUPE#,N/A,N/A,N/A
+Born Free,7.0,"Adventure, Family",60 min
+Actorul si salbaticii,8.7,"Comedy, Drama, Family",150 min
+Born Innocent,6.2,Drama,98 min
+Cuando los niños vienen de Marsella,4.0,"Comedy, Musical",105 min
+Gangsterfilmen,6.3,"Crime, Drama",105 min
+Invasion from Inner Earth,2.7,"Drama, Horror, Sci-Fi",94 min
+"Malteses, burgueses e às vezes...",5.1,"Adventure, Comedy, Crime",95 min
+Once,6.2,Fantasy,100 min
+El reprimido,4.1,Comedy,91 min
+Summer Run,N/A,Drama,96 min
+Superwheels,4.8,Comedy,96 min
+Doc,6.9,Comedy,30 min
+Am Ende der Welt,6.4,"Drama, War",100 min
+Catherine & Co.,5.3,"Comedy, Drama",100 min
+Drei Bayern in Bangkok,4.1,Comedy,72 min
+Halfon Hill Doesn't Answer,8.0,Comedy,92 min
+Het jaar van de kreeft,6.3,"Drama, Romance",91 min
+The Loves and Times of Scaramouche,4.0,Comedy,95 min
+The Nickel Ride,6.6,"Crime, Drama",99 min
+Puerto Colombia,N/A,N/A,N/A
+The Specialists,4.5,Drama,73 min
+Viva Baja,N/A,"Documentary, Short",11 min
+Happy Ever After,6.8,Comedy,30 min
+Nick the Sting,5.9,"Action, Crime, Thriller",97 min
+"Call Me Angel, Sir",4.2,Adult,73 min
+Disco Godfather,5.2,"Action, Crime, Drama",98 min
+Francis Gary Powers: The True Story of the U-2 Spy Incident,6.8,"Biography, Drama, History",120 min
+Independence,6.4,"Drama, Short",30 min
+The Tenant,7.6,"Drama, Thriller",126 min
+Más allá del deseo,N/A,Drama,93 min
+Police Python 357,6.9,"Crime, Drama, Thriller",126 min
+Silent Movie,6.7,Comedy,87 min
+Trás-os-Montes,7.1,Drama,108 min
+Unknown,N/A,N/A,N/A
+Adelbert,7.4,"Short, Drama",32 min
+Black Oak Conspiracy,5.7,"Action, Drama",92 min
+#DUPE#,N/A,N/A,N/A
+#DUPE#,N/A,N/A,N/A
+House of Men,8.3,Romance,60 min
+The Lady and the Lynchings,N/A,N/A,N/A
+México Norte,6.8,"Drama, Romance",111 min
+Poedinok v tayge,5.7,"Action, History",66 min
+La 7ème compagnie au clair de lune,6.2,Comedy,75 min
+"Terra de Pão, Terra de Luta",N/A,Documentary,75 min
+You Never Can Tell,7.3,Drama,120 min
+The Roller Girls,5.8,Comedy,30 min
+Baise-moi partout,4.9,Adult,73 min
+Closed Circuit,7.1,"Crime, Mystery, Sci-Fi",88 min
+Dr. Katzenbergers Badereise,N/A,Drama,90 min
+Der Führerschein,6.9,Drama,75 min
+The Immigrants,8.4,Drama,240 min
+#DUPE#,N/A,N/A,N/A
+My Way Home,7.4,"Biography, Drama",71 min
+#DUPE#,N/A,N/A,N/A
+Seeta Aur Geeta,6.9,"Adventure, Comedy, Drama",162 min
+Székács a köbön,5.0,N/A,81 min
+Watership Down,7.6,"Animation, Adventure, Drama",91 min
+#DUPE#,N/A,N/A,N/A
+Yuan jia,N/A,Comedy,N/A
+Bestia,6.3,Drama,105 min
+Gros câlin,6.7,Comedy,95 min
+Ève avait l'éclat métallique de l'été,N/A,N/A,60 min
+H.O.T.S.,4.6,Comedy,98 min
+Junge Leute brauchen Liebe,N/A,N/A,N/A
+Malibu High,5.0,"Crime, Drama, Thriller",90 min
+Erotic Nights of the Living Dead,4.2,"Adult, Horror",88 min
+Die Quelle,7.1,Drama,90 min
+She xing zui bu,6.0,Action,90 min
+Tigers are Better-Looking,9.0,Short,21 min
+Vampire Hookers,3.9,"Comedy, Horror",88 min
+The Visitor,5.2,"Horror, Sci-Fi",108 min
+Knockabout,7.2,"Action, Comedy, Drama",92 min
+Les égouts du paradis,6.1,"Action, Crime, Drama",115 min
+Skag,7.4,Drama,60 min
+#DUPE#,N/A,N/A,N/A
+9 to 5,6.9,Comedy,109 min
+After Grad with Dad,4.6,Short,25 min
+Eine Anzeige in der Zeitung,N/A,Drama,88 min
+The Blood of Hussain,6.9,Drama,112 min
+Borderline,6.0,"Action, Drama",97 min
+Caddyshack,7.2,"Comedy, Sport",98 min
+Charlotte,7.1,"Biography, Drama, War",96 min
+Pals,6.5,Drama,98 min
+Damy priglashayut kavalerov,6.6,"Comedy, Drama, Romance",76 min
+Denver,7.2,Fantasy,82 min
+Despido improcedente,5.4,Comedy,80 min
+Sweet Inquest on Violence,5.0,Drama,98 min
+L'envers du décor,N/A,"Documentary, Short",25 min
+Voltati Eugenio,7.1,Drama,110 min
+Pilot,N/A,"Drama, Romance",104 min
+The Ghost Dance,4.3,"Horror, Thriller",96 min
+The Girls in the Office,6.0,"Comedy, Romance",100 min
+Heiße Kartoffeln,4.5,Comedy,82 min
+Kapax del Amazonas,4.9,"Adventure, Romance",92 min
+Hotel Paradise,4.4,"Action, Adult, Adventure",101 min
+L'infermiera nella corsia dei militari,4.6,Comedy,89 min
+The Jayne Mansfield Story,5.2,"Biography, Drama",100 min
+Joe Albany... a Jazz Life,7.8,Documentary,57 min
+Klincz,6.9,"Drama, Sport",96 min
+Zombie Lake,3.1,Horror,90 min
+Leo and Loree,5.1,"Romance, Comedy",97 min
+Look Back in Anger,7.6,Drama,100 min
+Lunch Wagon,4.7,"Comedy, Crime, Romance",88 min
+Martin Eden,6.8,Drama,N/A
+La locandiera,5.7,Comedy,109 min
+La momia nacional,3.8,"Comedy, Horror",85 min
+Death Watch,6.6,"Drama, Sci-Fi, Thriller",117 min
+Unknown,N/A,N/A,N/A
+O bednom gusare zamolvite slovo,7.8,"Comedy, Drama, History",167 min
+Ojciec królowej,5.9,"Comedy, History",106 min
+La paloma azul,N/A,N/A,90 min
+Phoelix,6.3,N/A,47 min
+The Tale of John and Mary,7.1,"Animation, Adventure, Family",65 min
+La ragazza di Via Millelire,5.4,N/A,93 min
+Reiseabrechnung,N/A,N/A,60 min
+Rosa Heimat - eine Landillusion,N/A,N/A,N/A
+Schizoid,5.1,"Drama, Horror, Mystery",89 min
+Serial,6.5,Comedy,86 min
+The Shining,8.4,"Drama, Horror",146 min
+Sophia Loren: Her Own Story,6.7,"Biography, Drama",150 min
+The Story of a Refugee,N/A,N/A,N/A
+Kein Kinderspiel,N/A,"Crime, Drama, Mystery",80 min
+Theo gegen den Rest der Welt,6.8,"Comedy, Crime, Romance",106 min
+Total vereist,6.1,N/A,N/A
+Társkeresés No. 1463,7.5,Drama,N/A
+#DUPE#,N/A,N/A,N/A
+Do You Want a Nobel Baby?,4.5,Comedy,90 min
+Wie wär's mit uns beiden?,4.6,N/A,84 min
+The Rebellious Reign,7.2,Action,86 min
+Zhong shen da shi,7.6,Sci-Fi,100 min
+Bergerac,6.8,"Crime, Drama, Mystery",90 min
+Collin,7.0,Drama,181 min
+Kessler,6.7,"Drama, Thriller",50 min
+Omni: The New Frontier,7.8,Documentary,30 min
+That's My Boy,7.3,Comedy,30 min
+Aberraciones sexuales de un diputado,5.3,N/A,80 min
+L'alba,N/A,Drama,82 min
+L'amour nu,6.2,"Drama, Romance",100 min
+Bad Girls,6.3,"Adult, Adventure, Comedy",82 min
+The Best Little Girl in the World,6.3,Drama,100 min
+Boldyn,5.2,"Biography, Drama, History",119 min
+Bürgschaft für ein Jahr,6.7,Drama,93 min
+Centerfold Fever,7.2,"Adult, Comedy, Drama",79 min
+Chu Chu and the Philly Flash,4.2,Comedy,92 min
+Corridas de alegría,5.8,Comedy,86 min
+The Dancers,6.7,"Adult, Drama, Romance",N/A
+"Deprisa, Deprisa",7.0,"Crime, Drama, Romance",99 min
+Dracula Exotica,5.6,"Adult, Comedy, Horror",100 min
+Egon Schiele: Excess and Punishment,5.9,"Biography, Drama",95 min
+The Entity,6.7,"Drama, Horror",125 min
+Fallen Angel,6.9,Drama,100 min
+Unknown,N/A,N/A,N/A
+Friday the 13th Part 2,6.1,"Horror, Mystery, Thriller",87 min
+Genocide,7.3,"Documentary, Drama, History",90 min
+Dalmasingong,5.7,"Action, Drama",100 min
+Habanera,6.6,Drama,108 min
+Honky Tonk Freeway,5.2,"Action, Comedy",107 min
+Inmates: A Love Story,6.0,"Drama, Romance",100 min
+Junior High School,7.5,"Short, Comedy, Drama",39 min
+King of the Mountain,5.4,"Action, Adventure, Drama",90 min
+Crazy Nuts,3.8,"Action, Comedy, Drama",87 min
+Drunken Dragon,7.1,"Action, Comedy, Fantasy",98 min
+Der Magnetiseur,N/A,N/A,N/A
+#DUPE#,N/A,N/A,N/A
+The Munsters' Revenge,5.9,"Comedy, Crime, Family",96 min
+Neighbors,5.5,Comedy,94 min
+Nothing to Hide,6.0,"Adult, Comedy, Drama",101 min
+Othello,7.2,"Drama, Romance",195 min
+Peter-No-Tail,7.0,"Animation, Comedy, Drama",81 min
+Pohádka svatojánské noci,6.6,"Comedy, Family",79 min
+The Weather Forecast,6.6,Drama,86 min
+Rayon 69,N/A,N/A,N/A
+#DUPE#,N/A,N/A,N/A
+Demon Rage,3.7,Horror,98 min
+The Shanghai Thirteen,6.1,Action,90 min
+Do You Remember Dolly Bell?,7.5,"Comedy, Drama, Romance",110 min
+Spacy,7.4,Short,10 min
+Ein sturer Bock,N/A,N/A,N/A
+Tais-toi quand tu parles!,4.3,Comedy,89 min
+#DUPE#,N/A,N/A,N/A
+Justification,3.8,N/A,N/A
+Un assassin qui passe,5.8,Thriller,110 min
+El vecindario,5.9,Action,90 min
+The Voices of the Neighbourhood,N/A,"Short, Documentary",8 min
+Wie die Weltmeister,5.1,Comedy,76 min
+Young Lust,5.8,Comedy,90 min
+The Confessions of Felix Krull,6.7,"Comedy, Crime, Drama",60 min
+Unknown,N/A,N/A,N/A
+Let There Be Love,7.6,Comedy,30 min
+Report to Murphy,8.1,Comedy,30 min
+"Tom, Dick and Harriet",8.2,Comedy,30 min
+Shocking Africa,5.1,Documentary,96 min
+Amnestia,6.9,Drama,87 min
+Arpa Colla,6.6,Comedy,98 min
+Ausgestoßen,N/A,N/A,N/A
+Bare Essence,6.0,"Drama, Romance",212 min
+Bingo Bongo,6.0,"Comedy, Family",106 min
+Bors néni,7.4,Family,N/A
+I camionisti,5.0,Comedy,81 min
+Chispita y sus gorilas,4.4,"Comedy, Musical",80 min
+Canta Gitano,6.1,"Short, Musical",10 min
+Dannys Traum,N/A,Drama,90 min
+Killing of the Flesh,4.2,"Horror, Mystery, Thriller",92 min
+Dirty Looks,6.7,Adult,N/A
+Dusty,6.6,Drama,88 min
+Engler i sneen,4.2,"Drama, Romance",86 min
+Viadukt,5.7,"Crime, Drama",105 min
+Fighting Back,5.2,Drama,100 min
+Four Artists in France,N/A,N/A,N/A
+Five Last Days,6.8,"Drama, History",112 min
+El gran mogollón,2.9,Comedy,N/A
+Gwiezdny pyl,7.2,Drama,58 min
+Help Wanted: Male,6.7,"Comedy, Romance",97 min
+Honeyboy,6.4,Drama,100 min
+El huésped de la niebla,5.8,"Short, Documentary",10 min
+L'indiscrétion,5.8,"Crime, Thriller",94 min
+Jack and the Beanstalk,N/A,"Adventure, Comedy, Family",58 min
+Jägerschlacht,5.0,"Adventure, Drama",93 min
+The Klan: A Legacy of Hate in America,6.5,"Documentary, Short",30 min
+Leyenda,N/A,N/A,N/A
+Lookin' to Get Out,5.1,Comedy,105 min
+Macbeth,6.9,Drama,148 min
+Unknown,N/A,N/A,N/A
+Missing,7.7,"Biography, Drama, History",122 min
+Femmes,4.3,Drama,86 min
+Nastojanje,7.0,Drama,95 min
+Not Just Another Affair,5.5,"Comedy, Romance",95 min
+One Shoe Makes It Murder,6.0,"Mystery, Thriller",95 min
+The Prefab People,7.1,Drama,102 min
+Le petit théâtre,N/A,"Documentary, Short",30 min
+Flights in Dreams and in Reality,7.5,Drama,92 min
+Interrogation,7.9,"Crime, Drama, Thriller",118 min
+Rearranged,8.1,Short,N/A
+Roaring Fire,6.6,"Action, Comedy, Crime",95 min
+S.A.S. San Salvador,3.2,"Action, Thriller",85 min
+"Be Gentle, Penguin",5.6,"Romance, Comedy",94 min
+Si ringrazia la regione Puglia per averci fornito i milanesi,4.9,Comedy,98 min
+Something So Right,7.3,Comedy,120 min
+Still of the Night,6.0,"Crime, Drama, Mystery",93 min
+Tales of the Gold Monkey: Part 1,8.3,"Adventure, Drama, Romance",93 min
+"Heads I Win, Tails You Lose",6.6,Comedy,104 min
+Toto,5.4,Drama,82 min
+La truite,5.9,"Drama, Romance",103 min
+Vasiliy Buslaev,6.9,"Drama, History",81 min
+Vérszerzödés,7.5,Drama,78 min
+Wild Style,7.0,"Drama, Music",82 min
+Yol,8.0,Drama,107 min
+The 1/2 Hour Comedy Hour,5.9,Comedy,30 min
+Buffalo Bill,7.2,Comedy,30 min
+#DUPE#,N/A,N/A,N/A
+Just Good Friends,7.1,Comedy,92 min
+Oh Madeline,7.7,Comedy,30 min
+Struggle,N/A,Comedy,30 min
+A Woman of Substance,7.5,"Drama, Romance",300 min
+The Aerodrome,6.6,"Drama, Sci-Fi",91 min
+The Man with the Carnation,7.7,"Biography, Drama, History",125 min
+Aube noire,N/A,N/A,90 min
+Der Bastard,N/A,N/A,203 min
+Big Ball,5.3,Short,22 min
+Boogeyman II,2.1,Horror,79 min
+Cap Canaille,4.9,"Action, Crime, Drama",103 min
+Cindy - Cinderella '80,6.5,"Drama, Fantasy, Musical",173 min
+The City and the Dogs,7.4,Drama,135 min
+Covjek od rijeci,N/A,N/A,N/A
+In the White City,7.3,Drama,108 min
+La desconocida,3.8,Thriller,90 min
+Doctor Detroit,5.2,Comedy,89 min
+Eddie Murphy: Delirious,8.1,Comedy,69 min
+EPCOT Center: The Opening Celebration,7.4,"Comedy, Family, Music",50 min
+Family Business,N/A,"Comedy, Drama, Romance",N/A
+The First Turn-On!!,4.2,Comedy,88 min
+Funny People 2,5.6,Comedy,85 min
+Girls of the White Orchid,5.1,"Crime, Drama",98 min
+Grain of Sand,6.6,Comedy,90 min
+Halo taxi,6.9,Thriller,98 min
+Detenute violente,3.3,"Action, Crime, Drama",90 min
+Omnisphere,8.6,N/A,N/A
+I Married Wyatt Earp,5.8,"Drama, Western",100 min
+Rubberface,3.4,"Comedy, Drama",48 min
+Jimmy the Kid,4.7,Comedy,85 min
+Kerbels Flucht,7.5,N/A,105 min
+Kutya éji dala,7.1,Drama,150 min
+Mercenaries from Hong Kong,6.7,"Action, Drama",95 min
+The Lords of Discipline,6.6,Thriller,102 min
+The Man Who Wasn't There,3.8,"Action, Adventure, Comedy",111 min
+Masoom,8.4,"Drama, Family",165 min
+Miss Lonelyhearts,N/A,"Comedy, Drama, Romance",56 min
+"Murder Me, Murder You",7.1,"Action, Crime, Mystery",96 min
+Naughty Boys,6.2,Drama,105 min
+Notturno,6.0,"Action, Adventure",112 min
+One Too Many,6.4,"Adventure, Comedy, Drama",30 min
+Pallavi Anu Pallavi,7.4,"Drama, Romance",N/A
+Permettete signora che ami vostra figlia?,6.6,"Comedy, Drama, Romance",102 min
+The Planets,7.9,"Documentary, Music",50 min
+The Prodigal,5.6,Drama,109 min
+Il ras del quartiere,6.0,Comedy,88 min
+Richard Pryor... Here and Now,7.2,"Documentary, Comedy",83 min
+"Run Rebecca, Run!",5.3,Drama,N/A
+Time for Loving,6.1,Comedy,94 min
+The Second Love,4.4,"Drama, Romance",103 min
+"7, Hyden Park: La casa maledetta",5.6,"Horror, Mystery, Thriller",96 min
+Beauty and the Beast,7.0,Drama,87 min
+Sound of Sunshine - Sound of Rain,7.0,"Animation, Short",15 min
+The Sting II,4.9,"Comedy, Crime",101 min
+Superman III,5.0,"Action, Adventure, Comedy",125 min
+Tell Me That You Love Me,4.3,"Comedy, Drama",91 min
+A Time to Die,4.2,"Crime, Drama",91 min
+The Tragedy of Coriolanus,7.4,"Drama, History",145 min
+U bent mijn moeder,8.0,"Biography, Comedy",77 min
+Uuno Turhapuron muisti palailee pätkittäin,5.4,Comedy,90 min
+"Vitya Glushakov, drug Apachey",7.0,"Comedy, Family",77 min
+Where Is Parsifal?,4.8,Comedy,82 min
+Winners & Sinners,6.6,"Action, Comedy, Crime",108 min
+Zachvev strachu,5.9,Drama,N/A
+Últimas tardes con Teresa,5.8,Drama,105 min
+Charlie,6.7,N/A,240 min
+Empire,7.0,"Action, Musical",30 min
+Highway to Heaven,6.8,"Drama, Fantasy",60 min
+Master of the Game,7.3,Drama,413 min
+La piovra,8.4,"Action, Crime, Drama",402 min
+Special Squad,8.1,Drama,50 min
+#DUPE#,N/A,N/A,N/A
+The Adventures of Buckaroo Banzai Across the 8th Dimension,6.2,"Adventure, Comedy, Sci-Fi",103 min
+The Ambassador,5.3,"Action, Drama, Thriller",97 min
+The Satin Spider,5.2,"Crime, Drama, Horror",82 min
+Bachelor Party,6.3,Comedy,105 min
+Be Somebody... or Be Somebody's Fool!,8.0,"Family, Music",52 min
+Blanche and Marie,5.9,"Drama, War",92 min
+The Boy Who Had Everything,5.9,Drama,94 min
+C.H.U.D.,5.6,"Horror, Sci-Fi",88 min
+A Case of Libel,7.9,"Crime, Drama",115 min
+Code Gray: Ethical Dilemmas in Nursing,6.7,"Documentary, Short",26 min
+Crazy Kung Fu Master,7.2,"Action, Comedy",93 min
+Dark Mirror,5.4,"Drama, Thriller",120 min
+Dangerous Moves,6.6,"Drama, Sport, Thriller",100 min
+De droomproducenten,5.8,Documentary,100 min
+Les enragés,4.9,Drama,92 min
+Fanny Hill,5.1,"Comedy, Drama, Romance",98 min
+The Flamingo Kid,6.2,"Comedy, Drama, Romance",100 min
+Frankenstein 90,4.5,"Comedy, Drama, Horror",100 min
+Unknown,N/A,N/A,N/A
+Girls Nite Out,4.9,"Horror, Mystery, Thriller",96 min
+The Great Gold Swindle,7.1,"Crime, Drama",95 min
+Harry & Son,5.8,Drama,120 min
+The Hit,7.0,"Crime, Drama, Thriller",98 min
+Hum Dono,6.6,"Comedy, Family, Musical",156 min
+In Heaven There Is No Beer?,7.0,"Documentary, Music",51 min
+It Came Upon the Midnight Clear,7.5,"Drama, Family",97 min
+Joy of Sex,3.8,"Comedy, Romance",93 min
+The Karate Kid,7.3,"Action, Drama, Family",126 min
+Kim,5.9,"Adventure, Drama, Family",150 min
+Kun Hunttalan Matti Suomen osti,5.0,Comedy,81 min
+Last of the Great Survivors,6.6,Comedy,104 min
+Verdi,8.1,"Biography, Drama, Music",70 min
+Love Thy Neighbor,6.6,Comedy,100 min
+Mail Order Bride,6.6,"Comedy, Drama",86 min
+Mass Appeal,6.7,Drama,99 min
+Mgla,N/A,Drama,63 min
+Mon inconnue,N/A,"Short, Drama",N/A
+Muzsika,N/A,N/A,N/A
+The Next One,4.7,"Drama, Fantasy, Sci-Fi",105 min
+No Small Affair,5.5,"Comedy, Drama, Music",102 min
+The Oasis,6.2,Drama,92 min
+Once Upon a Time in America,8.3,"Crime, Drama",229 min
+The Painted Door,6.0,"Short, Drama",24 min
+Perras callejeras,4.4,Crime,97 min
+Police Academy,6.7,Comedy,96 min
+Przeznaczenie,6.3,"Biography, Drama",93 min
+Raaj Tilak,5.7,"Action, Drama",N/A
+Reno and the Doc,6.2,"Comedy, Drama",89 min
+Ryabinovye nochi,N/A,Drama,1 h 9 min
+Darlings!,6.4,"Comedy, Drama, Thriller",101 min
+Secrets of a Married Man,5.4,Drama,100 min
+Shanghai Blues,7.2,"Comedy, Romance",103 min
+#DUPE#,N/A,N/A,N/A
+Sny i marzenia,N/A,Drama,97 min
+Les spécialistes,6.4,"Adventure, Crime",94 min
+Straßenfilm,N/A,Short,14 min
+Sömnen,5.0,Drama,97 min
+Voyage to Cythera,7.7,Drama,120 min
+An Eternal Combat,5.6,"Action, Comedy, Fantasy",90 min
+Torchlight,3.8,"Drama, Romance",90 min
+Ultimatum,4.3,Drama,90 min
+Vamping,5.7,Drama,108 min
+Vocazione,N/A,Short,10 min
+Wenn ich dich nicht hätte,N/A,Drama,60 min
+Wo andere schweigen,5.8,"Biography, Drama",106 min
+Sweet and Naughty,7.1,"Adult, Comedy, Romance",81 min
+Zwei Bilder,N/A,Short,9 min
+Bassmasters,N/A,Sport,30 min
+The Detective,7.1,N/A,50 min
+Hollywood Wives,6.3,"Drama, Romance",2 min
+The Lucie Arnaz Show,5.7,Comedy,30 min
+"North & South: Book 1, North & South",8.1,"Drama, History, Romance",2 min
+Schöne Ferien,6.7,N/A,60 min
+Varuhuset,6.1,Drama,45 min
+AD Police Files,6.7,"Animation, Crime, Sci-Fi",121 min
+After Hours,7.6,"Comedy, Crime, Drama",97 min
+American Commandos,3.8,Action,88 min
+Anne of Green Gables,8.5,"Drama, Family",199 min
+Avaeté - Semente da Vingança,6.3,Drama,110 min
+Baryton,7.0,Drama,95 min
+"Bettina von Arnim, geb. Brentano",N/A,N/A,N/A
+Blood Beat,4.7,Horror,87 min
+Braker,4.5,"Crime, Drama",90 min
+A Bunny's Tale,5.8,"Biography, Comedy, Drama",104 min
+Certain Fury,5.3,"Action, Crime, Drama",87 min
+Chronicles of an Event,N/A,"Short, Documentary",16 min
+Code of Silence,6.0,"Action, Crime, Drama",100 min
+Crime Killer,5.9,"Action, Crime",90 min
+Dance with a Stranger,6.6,"Biography, Crime, Drama",96 min
+Desperately Seeking Susan,6.1,"Comedy, Drama",104 min
+Does Humor Belong in Music?,8.3,"Documentary, Comedy, Music",57 min
+The Dunera Boys,6.2,"Drama, War",200 min
+She Spent So Many Hours Under the Sun Lamps,6.9,"Drama, Fantasy",130 min
+La esclava blanca,4.9,"Horror, Thriller",87 min
+The Illegal Immigrant,7.1,"Drama, Romance",98 min
+Flesh and Bullets,4.1,Crime,84 min
+Fright Night,7.1,Horror,106 min
+Gidget's Summer Reunion,6.2,"Comedy, Drama",93 min
+Grenzenloses Himmelblau,5.4,Comedy,110 min
+Hammer,2.7,Drama,92 min
+Hitchcock: il brividio del genio,7.4,N/A,120 min
+Hot Moves,4.7,Comedy,85 min
+Illustrerat samtal med professor Lars Kristiansson,N/A,Documentary,123 min
+Inughuit - folket vid jordens navel,7.8,Documentary,87 min
+Joan Lui - Ma un giorno nel paese arrivo io di lunedì,4.7,"Comedy, Drama, Musical",163 min
+Kaminsky - Ein Bulle dreht durch,6.4,Thriller,86 min
+Kloppun Kunfes,N/A,N/A,N/A
+Labirynt,6.3,Horror,74 min
+Leng xie tu fu,3.8,"Horror, Thriller",N/A
+Ljubavna pisma s predumisljajem,7.4,Drama,95 min
+El lío de papá,N/A,Comedy,N/A
+Marriage of the Century,4.6,Comedy,100 min
+Mera Jawab,5.5,Action,N/A
+Moi vouloir toi,4.1,"Comedy, Drama, Romance",90 min
+Unknown,N/A,N/A,N/A
+Nadzór,7.2,Drama,118 min
+Nickel Mountain,6.0,Drama,88 min
+Not My Kid,5.8,Drama,100 min
+Once Bitten,5.6,"Comedy, Horror",94 min
+Holly - The Movie,6.4,"Comedy, Drama, Romance",85 min
+Past Caring,8.3,Drama,77 min
+Pismak,6.4,Drama,120 min
+El primer torero porno,2.8,Comedy,91 min
+På gränsen,N/A,Documentary,95 min
+Re-Animator,7.2,"Comedy, Horror, Sci-Fi",84 min
+Return to Oz,6.7,"Adventure, Family, Fantasy",113 min
+Rosso,6.5,"Drama, Crime",76 min
+Vagabond,7.6,Drama,105 min
+Segreti segreti,6.6,Drama,92 min
+It's a Drink! It's a Bomb!,6.4,"Comedy, Crime",95 min
+The Slugger's Wife,4.4,"Comedy, Music, Romance",105 min
+Stand-Up Reagan,5.4,Short,40 min
+Sudden Death,4.8,"Action, Thriller",90 min
+Takin' It Off,5.1,Comedy,90 min
+Terminal Choice,5.3,"Horror, Thriller",97 min
+Tiempo de morir,6.8,Drama,98 min
+Treasure of the Amazon,4.6,"Action, Adventure, Drama",97 min
+Társasutazás,6.8,"Documentary, Drama",75 min
+Vertiges,5.8,"Drama, Musical",108 min
+Vsak su vinar,N/A,N/A,N/A
+Westler,6.6,Drama,94 min
+Wizards of the Lost Kingdom,2.9,"Action, Adventure, Family",72 min
+Zastihla me noc,6.9,"Biography, Drama, War",135 min
+All Is Forgiven,7.9,Comedy,30 min
+Dear John....,7.6,Comedy,45 min
+The Haunted School,7.4,N/A,30 min
+A Little Princess,8.4,"Drama, Family",163 min
+Peter the Great,7.8,"Biography, Drama, History",371 min
+Siskel & Ebert,8.6,Talk-Show,30 min
+You Write the Songs,N/A,"Game-Show, Music",30 min
+Abducted,5.0,"Drama, Thriller",90 min
+All My Sons,7.5,"Comedy, Drama, Romance",N/A
+El amor brujo,7.0,"Music, Drama",100 min
+Halfaouine: Boy of the Terraces,6.7,"Drama, Comedy",98 min
+Bad Company,6.8,Drama,92 min
+Beskyddarna,5.6,"Crime, Thriller",95 min
+Black Mic Mac,5.3,Comedy,93 min
+"Body, Body, Blues",N/A,N/A,N/A
+Calé,6.0,Drama,86 min
+Le caviar rouge,4.1,Drama,92 min
+The Octopuses from the Second Floor,6.9,"Comedy, Family, Sci-Fi",92 min
+Cocaine Wars,4.3,"Action, Drama",82 min
+Crossroads,7.1,"Drama, Music, Mystery",99 min
+A Deadly Business,5.9,Drama,96 min
+Wild Wind,4.3,"Drama, War",91 min
+Down and Out in Beverly Hills,6.2,Comedy,103 min
+Echo Park,5.8,"Comedy, Drama",88 min
+Blessings of the Earth,8.0,Drama,N/A
+A fantasztikus nagynéni,7.5,"Adventure, Comedy, Family",N/A
+For Love Alone,5.3,"History, Romance",102 min
+Fuegos,4.0,Drama,95 min
+Glód,N/A,N/A,50 min
+Grandeur et décadence d'un petit commerce de cinéma,6.3,"Crime, Thriller",52 min
+Happy Hour,3.8,Comedy,88 min
+Hell High,5.1,"Crime, Horror, Thriller",84 min
+House,6.1,"Comedy, Fantasy, Horror",93 min
+I Own the Racecourse,4.5,Drama,90 min
+Inside Out,6.2,"Drama, Romance",87 min
+Jing zei xiong di,5.9,Action,N/A
+Echoes in the Wilderness,N/A,"Documentary, Short",N/A
+Kiri Kara Watita,N/A,N/A,80 min
+Labyrinth,7.3,"Adventure, Family, Fantasy",101 min
+Ein Leben für die Herrschaft - Vom Glück und Elend der dienstbaren Geister,N/A,Documentary,44 min
+Zátah,5.2,Crime,83 min
+Abracadabra,5.7,"Comedy, Horror",86 min
+Mammame,7.1,"Fantasy, Music",65 min
+Merry Go Round,N/A,N/A,N/A
+Dream Lovers,6.2,"Drama, Fantasy, Romance",95 min
+Modern Girls,5.7,"Comedy, Drama, Romance",84 min
+The Mosquito Coast,6.6,"Adventure, Drama, Thriller",117 min
+Mystery Mansion,4.4,"Adventure, Mystery",95 min
+Nanou,5.9,"Drama, Romance",110 min
+Ren zhe da,5.8,"Action, Crime",90 min
+Nyamanton,6.9,Drama,90 min
+One Night Only,4.5,Comedy,87 min
+Otto Klemperer's Long Journey Through His Times,8.6,Documentary,98 min
+Pascal - Gödel,6.5,Short,5 min
+The Phantom Empire,3.8,"Adventure, Comedy, Fantasy",83 min
+Polvos bélicos,N/A,Adult,N/A
+Puteshestviye gospodina Perrishona,5.9,"Comedy, Musical",75 min
+Red Grooms: Sunflower in a Hothouse,7.9,"Documentary, Short, Biography",21 min
+#DUPE#,N/A,N/A,N/A
+Ryder P.I.,4.5,Comedy,92 min
+Der Schnee vom vergangenen Jahr,5.3,Crime,88 min
+100 Ways to Murder Your Wife,5.8,"Comedy, Romance",92 min
+Sincerely Charlotte,5.6,Drama,88 min
+Something in Common,5.9,"Drama, Romance",102 min
+Stockholmsnatt,4.4,"Crime, Drama",50 min
+The Swords of Wayland,8.4,"Action, Drama, Fantasy",102 min
+Tod auf Eis,N/A,"Crime, Drama, Mystery",83 min
+Three Amigos!,6.5,"Comedy, Western",104 min
+Trapped in Silence,6.8,Drama,94 min
+Un tour de manège,6.2,"Crime, Drama, Romance",80 min
+The Venetian Woman,4.9,"Drama, Romance",83 min
+Scandalous Emanuelle,4.0,Drama,91 min
+The Whistle Blower,6.2,"Drama, Thriller",100 min
+Witchfire,4.4,"Comedy, Thriller",100 min
+Evil Cat,5.6,"Action, Comedy, Horror",91 min
+"Yuri Nosenko, KGB",6.5,Drama,89 min
+Zombie Brigade,2.7,"Drama, Fantasy, Horror",92 min
+Beverly Hills Buntz,6.5,"Comedy, Crime, Drama",30 min
+Dolly,7.3,"Comedy, Music",60 min
+Hard Copy,4.1,Drama,60 min
+Kurt Olssons television,6.2,Comedy,N/A
+Nothing in Common,5.8,Comedy,30 min
+The Refuge,N/A,Comedy,N/A
+Three Up Two Down,6.3,Comedy,30 min
+A Year in the Life,8.5,Drama,60 min
+Abatjour 1,3.9,Drama,86 min
+Alien Predator,3.8,"Drama, Horror, Sci-Fi",90 min
+Ampir,6.5,"Short, Drama, Thriller",32 min
+Arabella: Black Angel,5.3,"Drama, Mystery, Romance",89 min
+Broken April,7.1,Drama,100 min
+Bates Motel,3.8,"Comedy, Drama, Horror",90 min
+Beyond Therapy,4.8,Comedy,93 min
+Blood Frenzy,4.5,Horror,90 min
+Born of Fire,6.1,"Drama, Fantasy, Horror",84 min
+Camp de Thiaroye,7.7,"Drama, War",157 min
+Chaos im Gotthard,5.8,N/A,76 min
+Club de rencontres,5.2,Comedy,102 min
+Counterforce,4.3,"Action, Drama",98 min
+#DUPE#,N/A,N/A,N/A
+The Dante Quartet,6.8,"Animation, Short",6 min
+Deadly Illusion,4.8,"Adventure, Crime, Mystery",87 min
+Rest in Pieces,4.7,Horror,88 min
+Disorderlies,5.0,Comedy,86 min
+Dot and the Smugglers,6.5,"Animation, Family",75 min
+#DUPE#,N/A,N/A,N/A
+Emmanuelle 5,3.2,"Action, Drama",85 min
+Even Great Man,N/A,N/A,N/A
+Fatal Attraction,6.9,"Drama, Thriller",119 min
+Flying Finn,N/A,N/A,N/A
+Le funiculaire des anges,N/A,"Crime, Thriller",87 min
+Ghost Fever,3.4,"Comedy, Horror",86 min
+La gran comedia,6.7,Comedy,85 min
+Halodhia Choraye Baodhan Khai,8.5,Drama,120 min
+Heart,5.2,Drama,90 min
+The Hero's Journey: The World of Joseph Campbell,8.2,"Documentary, Biography",58 min
+Wings of Honneamise,7.2,"Animation, Drama, Sci-Fi",121 min
+Huan le long hu bang,6.8,"Action, Comedy",81 min
+In Extremis,5.2,"Crime, Drama, Romance",90 min
+Io e mia sorella,6.1,Comedy,110 min
+Jaune revolver,5.0,Crime,90 min
+Jungle Rats,5.5,"Action, War",93 min
+Behind Enemy Lines,4.7,"Action, Drama, War",88 min
+Kreytserova sonata,7.4,"Drama, Romance",158 min
+The Last Innocent Man,6.3,Thriller,109 min
+Light of Day,5.6,"Drama, Music",107 min
+The Lost Boys,7.2,"Comedy, Horror",97 min
+#DUPE#,N/A,N/A,N/A
+Malom a pokolban,7.9,Drama,110 min
+The Billionaire,N/A,"Crime, Drama, Mystery",120 min
+Miami Golem,3.7,"Action, Horror, Sci-Fi",85 min
+The Moneymen,N/A,N/A,N/A
+Mutant Hunt,3.7,"Action, Sci-Fi",75 min
+New York's Finest,5.2,Comedy,86 min
+No Dead Heroes,3.5,Action,86 min
+Nuts,6.6,"Drama, Thriller",116 min
+Orn,N/A,N/A,N/A
+Far Passion,7.0,Thriller,98 min
+Phoenix the Warrior,3.7,"Action, Sci-Fi",89 min
+Police Story: The Freeway Killings,6.2,"Crime, Drama",143 min
+The Princess Bride,8.0,"Adventure, Comedy, Family",98 min
+Quartermaine's Terms,8.5,Drama,N/A
+Raz na raz ne prikhoditsya,6.5,"Comedy, Crime",77 min
+Return to Horror High,4.3,"Comedy, Horror",95 min
+Roman Holiday,5.0,"Comedy, Drama, Romance",100 min
+Russkies,5.5,Drama,99 min
+Schlachtzeichen,6.9,N/A,54 min
+#DUPE#,N/A,N/A,N/A
+#DUPE#,N/A,N/A,N/A
+Smierc Johna L.,6.0,Drama,104 min
+Ssuda na brak,4.4,Comedy,69 min
+Strana la vita,7.2,Drama,99 min
+The Sun and the Moon,7.1,Drama,97 min
+Sécurité publique,2.0,Crime,98 min
+Wunschlos tot,6.8,Crime,90 min
+Three O'Clock High,7.1,Comedy,101 min
+Shuto shôshitsu,5.4,"Mystery, Sci-Fi",120 min
+La tricheuse,7.6,Drama,N/A
+Uncle Tom's Cabin,6.2,Drama,110 min
+Uuno Turhapuro kaksoisagentti,5.4,Comedy,96 min
+Vi ska tvivla,N/A,Documentary,69 min
+Waiting for the Moon,6.3,Drama,88 min
+Werewolf,7.8,"Horror, Thriller",90 min
+Withnail & I,7.5,"Comedy, Drama",107 min
+Diary of King Yonsan,5.5,N/A,118 min
+Final Victory,6.6,"Crime, Drama, Romance",98 min
+In fiecare zi mi-e dor de tine,6.7,Musical,90 min
+China Beach,8.2,"Drama, History, War",120 min
+Family Feud,6.6,Game-Show,60 min
+Imogène,7.1,N/A,N/A
+Mama's Boy,7.5,N/A,N/A
+Ramona,7.9,"Drama, Family",30 min
+Superboy,6.2,"Action, Adventure, Family",30 min
+Wyatt's Watchdogs,5.0,Comedy,29 min
+The Accused,7.1,"Crime, Drama",111 min
+Alien Nation,6.3,"Action, Sci-Fi",91 min
+Andy Colby's Incredible Adventure,3.5,"Adventure, Fantasy, Sci-Fi",75 min
+Arthur 2: On the Rocks,4.7,"Comedy, Romance",113 min
+Bachi da seta,N/A,Drama,93 min
+Bees Saal Baad,5.2,"Horror, Mystery",141 min
+The Big Knife,5.4,"Comedy, Drama",N/A
+The Bloody Monks,5.0,"Fantasy, Horror, Thriller",75 min
+The Bourne Identity,6.8,"Action, Adventure, Drama",185 min
+Bum Rap,7.8,"Comedy, Drama",117 min
+The Carrier,5.7,"Drama, Horror, Thriller",99 min
+The Child Saver,7.0,Drama,105 min
+Blood Money,4.9,"Action, Crime, Thriller",110 min
+Cool Blue,4.6,"Comedy, Romance, Thriller",93 min
+The Diary of a Big Man,6.7,"Comedy, Romance",86 min
+Dead Ringers,7.2,"Drama, Horror, Thriller",116 min
+"Dekalog, siedem",7.8,Drama,57 min
+Die Hard,8.2,"Action, Thriller",132 min
+Divided We Stand,5.5,Drama,60 min
+Drawing Lesson #2,6.5,"Animation, Comedy, Short",6 min
+Einstweilen wird es Mittag oder Die Arbeitslosen von Marienthal,6.2,N/A,95 min
+Die erste Reihe,N/A,"Drama, History",110 min
+Familienschande,7.5,"Crime, Drama",135 min
+Filou,5.1,Drama,91 min
+A Friendship in Vienna,6.7,"Drama, History",100 min
+Georgette Meunier,5.3,"Crime, Drama",80 min
+Goddess of Love,3.1,"Comedy, Fantasy",100 min
+Greshnik,6.3,Comedy,83 min
+Hard Rock Nightmare,4.6,Horror,87 min
+High Spirits,5.7,"Comedy, Fantasy",99 min
+Hot to Trot,4.4,"Comedy, Fantasy",83 min
+Ich melde einen Selbstmord,N/A,"Crime, Drama",92 min
+Internal Affairs,6.5,"Crime, Drama, Thriller",200 min
+Keep on Dancing,5.2,Comedy,89 min
+Jungfruresan,3.0,Drama,106 min
+Kikuchi Eri: kyonyû-zeme,N/A,Drama,68 min
+The End of the World,7.0,Drama,57 min
+Last Platoon,4.3,"Action, War",80 min
+Let's Get Lost,7.8,"Documentary, Biography, Music",120 min
+Loco veneno,5.9,Comedy,95 min
+Mad About You,5.8,Comedy,92 min
+Marattam,8.8,N/A,90 min
+Meine Seele ist eine leidenschaftliche Tänzerin - Bettina von Arnim,N/A,Biography,N/A
+Before the Bat's Flight Is Done,7.1,"Drama, Thriller",91 min
+Moonwalker,6.1,"Action, Crime, Fantasy",93 min
+Murder One,5.4,"Biography, Crime, Drama",82 min
+Nadie nada nunca,N/A,N/A,90 min
+A New Life,5.8,Comedy,104 min
+No Crying He Makes,6.1,"Crime, Drama, Mystery",1 h 15 min
+Nypan - biografprojektionisten,N/A,N/A,N/A
+The Eye Above the Well,7.5,Documentary,94 min
+Paganini Horror,4.3,"Horror, Music",82 min
+Obsession: A Taste for Fear,4.8,"Horror, Mystery, Sci-Fi",89 min
+Perry Mason: The Case of the Lady in the Lake,6.8,"Crime, Drama, Mystery",95 min
+El poder de la venganza,4.5,Action,N/A
+Primiti Too Taa,7.6,"Documentary, Animation, Short",6 min
+Il caso Pupetta Maresca,N/A,Documentary,60 min
+The Raggedy Rawney,6.3,"Drama, Romance, War",103 min
+Széchenyi napjai,N/A,N/A,N/A
